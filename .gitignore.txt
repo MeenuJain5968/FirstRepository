@@ -6,6 +6,7 @@
 # Compiled class file
 *.class
 *.MyFirstFile.txt
+*.js
 
 # Log file
 *.log
